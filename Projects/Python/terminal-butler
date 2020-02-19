@@ -1,0 +1,7 @@
+Link: https://github.com/ANTFOR7717/Terminal-Butler
+
+Why I made it:
+I was experimenting with automation, and how to make my workflow even more efficient. I decided that since I often spend
+most time behind a terminal or IDE, a program that can quickly transition me to a website with little supervision was
+the most ideal solution. I used selenium to automate my web keystrokes and python as the main language. I now very
+frequently use this to save time while transitioning.

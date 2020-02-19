@@ -1,0 +1,186 @@
+{
+
+  "basics": {
+    "name": "Anthony Forest",
+    "label": "FullStack Developer | Electronics Engineer",
+
+    "summary": "I'm a full stack web developer who can build most apps from the ground up. ",
+
+    "website": "http://antfor.me",
+    "email": "anthony.forest@engineer.com",
+
+    "location": {
+
+      "city": "Newport News",
+      "countryCode": "US"
+
+    },
+
+    "profiles": [{
+      "url": "https://github.com/antfor7717",
+      "username": "antfor7717",
+      "network": "github"
+    }]
+  },
+
+  "education": [
+    {
+      "endDate": "2020-12-01",
+      "startDate": "2020-01-01",
+
+      "area": "Mechatronics Engineering (enrolled)",
+
+      "studyType": "Bachelors",
+      "institution": "ECPI University"
+    },
+    {
+      "endDate": "2020-01-21",
+      "startDate": "2020-01-01",
+
+      "area": "Electronic Engineering (enrolled)",
+
+      "studyType": "Bachelors",
+      "institution": "ECPI University"
+    },
+    {
+      "endDate": "2019-06-21",
+      "startDate": "2017-01-01",
+
+      "area": "Electronic Engineering (graduatuated)",
+
+      "studyType": "Associates",
+      "institution": "ECPI University"
+    }
+  ],
+
+  "skills": [
+    {
+      "keywords": ["Node.js", "Ruby", "Python", "Perl", "C++"],
+      "level": "Junior",
+      "name": "Backend"
+    },
+    {
+      "keywords": ["Angular", "React.js", "Ember.js, Yaml, webpack", "HTML / CSS / JS"],
+      "level": "Junior",
+      "name": "Frontend"
+    },
+    {
+      "keywords": ["AWS", "G Cloud", "Heroku", "Caching"],
+      "level": "Junior",
+      "name": "Devops"
+    },
+    {
+      "keywords": ["Multi-sim", "sci-lab", "NI Lab-view", "PLC"],
+      "level": "Junior",
+      "name": "Circuit Design"
+    }
+  ],
+
+  "work": [{
+
+    "website": "https://antfor.me",
+    "company": "Freelance",
+    "location": "Remote",
+
+    "position": "Frontend Developer",
+
+    "startDate": "2020-01-01",
+
+    "highlights": [
+      "Familiarity with web frameworks such as Angular JS, React and Django.",
+      "Proficiency with fundamental front end languages such as HTML, CSS and JavaScript.",
+      "Proficiency with server side language Python and Familiarity with Ruby, Java, and PHP",
+      "Familiarity with database technology such as MySQL, Oracle and MongoDB."
+    ]
+  },
+    {
+
+      "summary": "led a small team in the designing, development, enhancement, testing and deployment of web applications for small businesses",
+
+      "website": "http://spaetyl.com",
+      "company": "Spaetyl Co.",
+
+      "position": "Senior Webmaster",
+
+      "startDate": "2019-01-29",
+      "endDate": "2020-02-01",
+
+      "highlights": [
+        "Design and develop websites for clients via custom XHTML, HTML, CSS, PHP, MySQL, and content management systems.",
+        "Assisted with the development of assessment strategies designed to evaluate the office's website.",
+        "Worked directly with developers, programmers, and technicians to ensure all websites technical functionality matched the needs of the administration."
+      ]
+    },
+
+    {
+
+      "summary": "Following Google’s CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
+
+      "website": "http://www.hamptonu.edu",
+
+      "company": "Hampton University",
+      "position": "Network Administrator",
+
+      "startDate": "2018-06-23",
+      "endDate": "2019-01-25",
+
+      "highlights": [
+        "Windows Server administration and maintenance including Active Directory and Group Policy.",
+        "Installed, configured and patched Linux, Windows 2008 and Windows 2012 Servers.",
+        "Trained personnel on network administration, EKMS and helpdesk procedures."
+      ]
+    },
+
+    {
+
+      "website": "https://englerit.com",
+      "company": "Engler IT LLC.",
+
+      "position": "Help Desk Analyst",
+
+      "startDate": "2016-05-01",
+      "endDate": "2017-01-01",
+
+      "highlights": [
+        "Provided helpdesk support to 20+ local business clients in partnership.",
+        "Documented issues and generated reports of common issues while issuing and filing tickets.",
+        "Assists appointments for in-house IT maintenance, services and installations.",
+        "Engaged in complex projects with administration increasing monthly revenue 20%."
+      ]
+    },
+
+    {
+
+      "summary": "Started off as a front end developer but took on the role of CTO in early 2013. The application frontend is built with Javascript and organized as a single page application that talks to a collection of Rails web servers which are connected to MongoDB.",
+
+      "website": "https://www.bestbuy.com",
+      "company": "Best Buy Co.",
+
+      "position": "Advanced Repair Agent",
+
+      "startDate": "2013-10-12",
+      "endDate": "2015-01-09",
+
+      "highlights": [
+        "Managed a small team of developers and designers",
+        "Built the entire frontend application with Backbone.js",
+        "Transferred all of the infrastructure from Heroku to AWS"
+      ]
+    }
+  ],
+
+  "interests": [
+    {
+    "name": "Soccer"
+  },
+    {
+      "name": "Music"
+    },
+    {
+      "name": "Reading"
+    },
+    {
+      "name": "Open Source"
+    }
+  ]
+}
