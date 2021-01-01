@@ -54,7 +54,7 @@
 
   "skills": [
     {
-      "keywords": ["Node.js", "Ruby", "Python", "Perl", "C++"],
+      "keywords": ["Node.JS", "Web Assembly", "Python", "C++"],
       "level": "Junior",
       "name": "Backend"
     },
@@ -71,7 +71,7 @@
     {
       "keywords": ["Vue.JS", "Nuxt.JS", "Flask", "Django", "Angular"],
       "level": "Mid-level",
-      "name": "Web Frameworks"
+      "name": ""
     }
   ],
 
@@ -86,10 +86,10 @@
     "startDate": "2020-01-01",
 
     "highlights": [
-      "Familiarity with web frameworks such as Angular JS, React and Django.",
-      "Proficiency with fundamental front end languages such as HTML, CSS and JavaScript.",
-      "Proficiency with server side language Python and Familiarity with Ruby, Java, and PHP",
-      "Familiarity with database technology such as MySQL, Oracle and MongoDB."
+      "Lead the development for data aggregation of exercise science derived from artificial intelligence and machine learning.",
+      "Created a data-collection API designed to interact with Inertia Measurement Units (IMU's) to collect over 10,000 datapoints per minute.",
+      "Designed the UI/UX of end-user mobile application allowing users to view 100 machine learning predicted statistics.",
+      "Automated collation of over 10 million data endpoints from multiple sources."
     ]
   },
     {
@@ -103,10 +103,10 @@
     "startDate": "2020-01-01",
 
     "highlights": [
-      "Familiarity with web frameworks such as Angular JS, React and Django.",
-      "Proficiency with fundamental front end languages such as HTML, CSS and JavaScript.",
-      "Proficiency with server side language Python and Familiarity with Ruby, Java, and PHP",
-      "Familiarity with database technology such as MySQL, Oracle and MongoDB."
+      "Lead the development of over 15 eCommerce projects using HTML/CSS, Javascript and Nuxt.JS resulting in over 80% increase in online sales.",
+      "Spearheaded development of impactful websites reaching a combined 50,000 end-users.",
+      "decreased load times by 80% and increased responsiveness by 90% migrating existing projects to Web Frameworks.",
+      "Rendered over 1,000 products and blog post dynamically using Headless CMS API's and server-side languages."
     ]
   },
     {
