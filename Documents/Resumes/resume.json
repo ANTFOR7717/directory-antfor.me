@@ -4,7 +4,7 @@
     "name": "Anthony Forest",
     "label": "Frontend Developer",
 
-    "summary": "Frontend Developer with 5 years of experience decreasing load times and increasing responsiveness of mission critical frontend web applications. ",
+    "summary": "Frontend Developer with 5 years of experience decreasing load times and increasing responsiveness of mission critical frontend web applications.",
     "website": "http://anthonyforest.dev",
     "email": "anthony.forest@engineer.com",
 
@@ -59,8 +59,8 @@
       "name": "Backend"
     },
     {
-      "keywords": ["HTML/CSS"],
-      "level": "Junior",
+      "keywords": ["HTML/CSS", "Javascript", "React", "Angular"],
+      "level": "Mid-level",
       "name": "Frontend"
     },
     {
