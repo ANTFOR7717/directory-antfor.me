@@ -60,19 +60,19 @@
       "name": "Backend"
     },
     {
-      "keywords": ["Angular", "React.js", "Ember.js, Yaml, webpack", "HTML / CSS / JS"],
+      "keywords": ["HTML/CSS"],
       "level": "Junior",
       "name": "Frontend"
     },
     {
-      "keywords": ["AWS", "G Cloud", "Heroku", "Caching"],
+      "keywords": ["AWS", "GCP", "Heroku", "Netlify", "Github"],
       "level": "Junior",
       "name": "Devops"
     },
     {
-      "keywords": ["Multi-sim", "sci-lab", "NI Lab-view", "PLC"],
-      "level": "Junior",
-      "name": "Circuit Design"
+      "keywords": ["Vue.JS", "Nuxt.JS", "Flask", "Django", "Angular"],
+      "level": "Mid-level",
+      "name": "Web Frameworks"
     }
   ],
 
