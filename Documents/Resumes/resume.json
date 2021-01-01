@@ -2,16 +2,16 @@
 
   "basics": {
     "name": "Anthony Forest",
-    "label": "FullStack Developer | Electronics Engineer",
+    "label": "Frontend Developer",
 
-    "summary": "I'm a full stack web developer who can build most apps from the ground up. ",
+    "summary": "I'm a frontend web developer who can build most apps from the ground up. ",
 
-    "website": "http://antfor.me",
+    "website": "http://anthonyforest.dev",
     "email": "anthony.forest@engineer.com",
 
     "location": {
 
-      "city": "Newport News",
+      "city": "Washington, DC",
       "countryCode": "US"
 
     },
@@ -24,20 +24,20 @@
   },
 
   "education": [
-    {
-      "endDate": "2020-12-01",
-      "startDate": "2020-01-01",
+    { 
+      "startDate": "2019-01-01",
+      "endDate": "2021-12-03",
 
-      "area": "Mechatronics Engineering (enrolled)",
+      "area": "Mechatronics Engineering",
 
       "studyType": "Bachelors",
       "institution": "ECPI University"
     },
     {
-      "endDate": "2020-01-21",
-      "startDate": "2020-01-01",
+      "startDate": "2019-01-01",
+      "endDate": "2021-12-03",
 
-      "area": "Electronic Engineering (enrolled)",
+      "area": "Electronic Engineering",
 
       "studyType": "Bachelors",
       "institution": "ECPI University"
@@ -46,7 +46,7 @@
       "endDate": "2019-06-21",
       "startDate": "2017-01-01",
 
-      "area": "Electronic Engineering (graduatuated)",
+      "area": "Electronic Engineering",
 
       "studyType": "Associates",
       "institution": "ECPI University"
@@ -76,13 +76,30 @@
     }
   ],
 
-  "work": [{
+  "work": [
+       {
 
-    "website": "https://antfor.me",
-    "company": "Freelance",
+    "company": "Gym Tech Inc.",
+    "location": "Norfolk, VA",
+
+    "position": "Mobile Developer",
+
+    "startDate": "2020-01-01",
+
+    "highlights": [
+      "Familiarity with web frameworks such as Angular JS, React and Django.",
+      "Proficiency with fundamental front end languages such as HTML, CSS and JavaScript.",
+      "Proficiency with server side language Python and Familiarity with Ruby, Java, and PHP",
+      "Familiarity with database technology such as MySQL, Oracle and MongoDB."
+    ]
+  },
+    {
+
+    "website": "https://afresolutions.com",
+    "company": "AF Resolutions LLC.",
     "location": "Remote",
 
-    "position": "Frontend Developer",
+    "position": "Fullstack Developer",
 
     "startDate": "2020-01-01",
 
