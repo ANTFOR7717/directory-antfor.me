@@ -4,7 +4,7 @@
     "name": "Anthony Forest",
     "label": "Frontend Developer",
 
-    "summary": "Frontend Developer with 5 years of experience decreasing load times and increasing responsiveness of mission critical frontend web applications.",
+    "summary": "Frontend Developer with 5 years of experience increasing responsiveness and decreasing load times of mission critical frontend web applications.",
     "website": "http://anthonyforest.dev",
     "email": "anthony.forest@engineer.com",
 
@@ -55,7 +55,7 @@
   "skills": [
     {
       "keywords": ["Node.JS", "Web Assembly", "Python", "C++"],
-      "level": "Junior",
+      "level": "Mid-level",
       "name": "Backend"
     },
     {
@@ -77,6 +77,8 @@
 
   "work": [
        {
+         
+    "summary":"",
 
     "company": "Gym Tech Inc.",
     "location": "Norfolk, VA",
@@ -86,13 +88,15 @@
     "startDate": "2020-01-01",
 
     "highlights": [
-      "Lead the development for data aggregation of exercise science derived from artificial intelligence and machine learning.",
+      "Lead the development for the aggregation of exercise science data derived from artificial intelligence and machine learning.",
       "Created a data-collection API designed to interact with Inertia Measurement Units (IMU's) to collect over 10,000 datapoints per minute.",
       "Designed the UI/UX of end-user mobile application allowing users to view 100 machine learning predicted statistics.",
       "Automated collation of over 10 million data endpoints from multiple sources."
     ]
   },
     {
+      
+    "summary":"",
 
     "website": "https://afresolutions.com",
     "company": "AF Resolutions LLC.",
@@ -105,7 +109,7 @@
     "highlights": [
       "Lead the development of over 15 eCommerce projects using HTML/CSS, Javascript and Nuxt.JS resulting in over 80% increase in online sales.",
       "Spearheaded development of impactful websites reaching a combined 50,000 end-users.",
-      "decreased load times by 80% and increased responsiveness by 90% migrating existing projects to Web Frameworks.",
+      "decreased load times by 80% and increased responsiveness by 90% migrating existing projects to modern web frameworks.",
       "Rendered over 1,000 products and blog post dynamically using Headless CMS API's and server-side languages."
     ]
   },
@@ -113,8 +117,8 @@
 
       "summary": "led a small team in the designing, development, enhancement, testing and deployment of web applications for small businesses",
 
-      "website": "http://spaetyl.com",
-      "company": "Spaetyl Co.",
+      "website": "http://www.spaetyl.com",
+      "company": "Spaetyl Design Co.",
 
       "position": "Senior Webmaster",
 
@@ -122,15 +126,18 @@
       "endDate": "2020-02-01",
 
       "highlights": [
-        "Design and develop websites for clients via custom XHTML, HTML, CSS, PHP, MySQL, and content management systems.",
+        "Maintained and analyzed website performance for +100 clients using Google Analytics.",
         "Assisted with the development of assessment strategies designed to evaluate the office's website.",
-        "Worked directly with developers, programmers, and technicians to ensure all websites technical functionality matched the needs of the administration."
+        "Implemented test driven development into the companies workflow decreasing average project completetion time by 40%",
+        "Worked directly with developers to cross browser test over 100 websites using Selenium.",
+        "Worked asychronously with marketing on the CRO process increasing conversion rates by 10% with targeted SEO keywords.",
+        
       ]
     },
 
     {
 
-      "summary": "Following Google’s CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
+      "summary": "",
 
       "website": "http://www.hamptonu.edu",
 
@@ -149,9 +156,9 @@
 
     {
 
-      "website": "https://englerit.com",
+      
       "company": "Engler IT LLC.",
-
+      "website": "https://englerit.com",
       "position": "Help Desk Analyst",
 
       "startDate": "2016-05-01",
@@ -178,9 +185,10 @@
       "endDate": "2015-01-09",
 
       "highlights": [
-        "Managed a small team of developers and designers",
-        "Built the entire frontend application with Backbone.js",
-        "Transferred all of the infrastructure from Heroku to AWS"
+        "Led the resolution of technical issues, working with leadership to ensure customer satisfaction.",
+        "Resolved over 25 troubleshooting tickets per day, focusing on high impact issues.",
+        "Managed a high workload in a fast-paced environment, working on up to 5 devices at a time.",
+        "Marked consistently as the top producer, logging most computers repaired per hour."
       ]
     }
   ],
@@ -190,13 +198,13 @@
     "name": "Soccer"
   },
     {
-      "name": "Music"
+      "name": "Guitar"
     },
     {
       "name": "Reading"
     },
     {
-      "name": "Open Source"
+      "name": "Programming"
     }
   ]
 }
